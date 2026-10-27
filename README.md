@@ -1,10 +1,10 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 # 🎬 Just Player Custom Patches
 
 Template repository for Morphe Patches.
 
 ## ❓ About
 
-Patches for apps I like.
+Custom Morphe patches for Just Player, focused on playback controls and per-video preferences.
 
 <!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
 

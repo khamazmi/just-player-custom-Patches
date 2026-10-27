@@ -3,10 +3,10 @@ group = "app.template"
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Just Player Custom Patches"
+        description = "Custom playback controls and per-video preferences for Just Player"
+        source = "git@github.com:khamazmi/just-player-custom-Patches.git"
+        author = "khamazmi"
         contact = "na"
         website = "na"
         license = "GPLv3"
